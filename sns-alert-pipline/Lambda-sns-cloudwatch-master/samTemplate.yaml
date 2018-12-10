@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: 'AWS::Serverless-2016-10-31'
-Description: Prod_alert
+Description: Prod_alert1
 Resources:
   prod_alert:
     Type: 'AWS::Serverless::Function'
